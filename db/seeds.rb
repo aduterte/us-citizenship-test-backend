@@ -116,6 +116,104 @@ Question.create([
     {
         question: "In what month do we vote for President?",
         answers: ["November"]
+    },
+    {
+        question: "What is the name of the President of the United States now?",
+        answers: [""],
+        external: true
+    },
+    {
+        question: "What is the name of the Vice President of the United States now?",
+        answers: [""],
+        external: true
+    },
+    {
+        question: "If the President can no longer serve, who becomes President?",
+        answers: ["the Vice President"]
+    },
+    {
+        question: "If both the President and the Vice President can no longer serve, who becomes President?",
+        answers: ["the Speaker of the House"]
+    },
+    {
+        question: "Who is the Commander in Chief of the military?",
+        answers: ["the President"]
+    },
+    {
+        question: "Who signs bills to become laws?",
+        answers: ["the President"]
+    },
+    {
+        question: "Who vetoes bills?",
+        answers: ["the President"]
+    },
+    {
+        question: "What does the President's Cabinet do?",
+        answers: ["advices the President"]
+    },
+    {
+        question: "What are two Cabinet-level positions?",
+        answers: ["Secretary of Agriculture","Secretary of Commerce","Secretary of Defense","Secretary of Education","Secretary of Energy","Secretary of Health and Human Services","Secretary of Homeland Security","Secretary of Housing and Urban Development","Secretary of Interior","Secretary of Labor","Secretary of State","Secretary of Transportation","Secretary of the Treasury","Secretary of Veterans Affairs", "Attorney General","Vice President"]
+    },
+    {
+        question: "What does the judicial branch do?",
+        answers: ["reviews laws","explains laws","resolves disputes (disagreements)","decides if a law goes against the Constitution"]
+    },
+    {
+        question: "What is the highest court in the United States?",
+        answers: ["the Supreme Court"]
+    },
+    {
+        question: "How many justices are on the Supreme Court?",
+        answers: ["nine"]
+    },
+    {
+        question: "Who is the Chief Justice of the United States now?",
+        answers: [""],
+        external: true
+    },
+    {
+        question: "Under our Constitution, some powers belong to the federal government. What is one power of the feral government?",
+        answers: ["to print money","to declare war","to create an army","to make treaties"]
+    },
+    {
+        question: "Under our Constitution, some powers belong to the states. What is one power of the states?",
+        answers: ["provide schooling and education","provide protection (police)","provide safety (fire departments","give a driver's license","approve zoning and land use"]
+    },
+    {
+        question: "Who is the Governor of your state now?",
+        answers: [""],
+        external: true
+    },
+    {
+        question: "What is the capital of your state?",
+        answers: [""],
+        external: true
+    },
+    {
+        question: "Whare the two major political parties in the United States?",
+        answers: ["Democratic and Republican"]
+    },
+    {
+        question: "What is the political party of the President now?",
+        answers: [""],
+        external: true
+    },
+    {
+        question: "There are four amendments to the Constitution about who can vote. Describe one of them.",
+        answers: ["Citizens eighteen (18) and older (can vote).","You don't have to pay ( a poll tax ) to vote.","Any citzen can vote. ( Women and men can vote.)","A male citizen of any race ( can vote)."]
+    },
+    {
+        question: "What is one responsibility that is only for United States citizens?",
+        answers: ["serve on a jury","vote in a federal election"]
+    },
+    {
+        question: "Name one right only for United States citizens.",
+        answers: ["vote in a federal election","run for federal office"]
+    },
+    {
+        question: "What are two rights of everyone living in the United States?",
+        answers: ["freedom of expression","freedom of speech","freedom of assembly","freedom to petition the government","freedom of religion","the right to bear arms"]
     }
 ])
 
