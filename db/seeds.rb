@@ -72,7 +72,7 @@ Question.create([
         answers: ["Congress","Senate and the House (of Representatives","(U.S. or national) legislature"]
     },
     {
-        question: "What are the two parts of the U.S. Congress",
+        question: "What are the two parts of the U.S. Congress.",
         answers: ["the Senate and House (of Representatives)"]
     },
     {
@@ -97,7 +97,7 @@ Question.create([
         answers: ["two(2)"]
     },
     {
-        question: "Name your U.S. Representative",
+        question: "Name your U.S. Representative.",
         answers: [""],
         external: true
     },
@@ -173,7 +173,7 @@ Question.create([
         external: true
     },
     {
-        question: "Under our Constitution, some powers belong to the federal government. What is one power of the feral government?",
+        question: "Under our Constitution, some powers belong to the federal government. What is one power of the federal government?",
         answers: ["to print money","to declare war","to create an army","to make treaties"]
     },
     {
@@ -191,7 +191,7 @@ Question.create([
         external: true
     },
     {
-        question: "Whare the two major political parties in the United States?",
+        question: "What are the two major political parties in the United States?",
         answers: ["Democratic and Republican"]
     },
     {
@@ -216,7 +216,7 @@ Question.create([
         answers: ["freedom of expression","freedom of speech","freedom of assembly","freedom to petition the government","freedom of religion","the right to bear arms"]
     },
     {
-        question: "What do we show loyaltyto when we say the Pledge of Allegiance?",
+        question: "What do we show loyalty to when we say the Pledge of Allegiance?",
         answers: ["the United States", "the flag"]
     },
     {
@@ -236,11 +236,11 @@ Question.create([
         answers: ["April 15"]
     },
     {
-        question: "When must all men register for the Selective Service",
+        question: "When must all men register for the Selective Service?",
         answers: ["at age eighteen ( 18) ","between eighteen (18) and twenty-six(26)"]
     },
     {
-        question: "What is on reason colonists came to America?",
+        question: "What is one reason colonists came to America?",
         answers: ["freedom","political liberty","religous freedom","ecomnomic oppurtinity","practice their religion","escape persecution"]
     },
     {
@@ -296,7 +296,7 @@ Question.create([
         answers: ["the Louisiana Territory", "Louisiana"]
     },
     {
-        question: "Name one war fought by the United States in 1800s",
+        question: "Name one war fought by the United States in the 1800s",
         answers: ["War of 1812","Mexican-American War","Civil War","Spanish-American War"]
     },
     {
