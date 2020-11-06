@@ -7,10 +7,7 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 Question.destroy_all
 
-# Question.create(
-#     question: "",
-#     answers: [""]
-# )
+
 
 Question.create([
     {question: "What is the supreme law of the land?",
@@ -410,11 +407,11 @@ Question.create([
     {
         question: "Name two national U.S. holidays",
         answers: ["New Year's Day","Martin Luther King, Jr. Day","President's Day","Memorial Day","Independence Day","Labor Day","Columbus Day","Veterans Day","Thanksgiving","Christmas"]
+    },
+    {
+        question: "What is the name of the Speaker of the House of Representatives now?",
+        answers: ["Nancy Pelosi"]
     }
     
 ])
 
-# Question.create(
-#     question: "",
-#     answers: [""]
-# )
